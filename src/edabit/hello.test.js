@@ -1,4 +1,6 @@
-import hello from './hello'
+function hello() {
+  return 'hello edabit.com'
+}
 
 describe('how edabit works - hello()', () => {
   it('should return "hello edabit.com"', () => {
