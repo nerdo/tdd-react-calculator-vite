@@ -31,3 +31,5 @@ Once you get in the groove, look for at least 5 harder problems on the site that
 If you feel up to it and have time to dig in, try solving them on your own with TDD - or maybe even without it.
 
 The goal here is to find some problems that you aren't able to easily solve with TDD... but see how far you can get and we'll discuss and work on them in our next session.
+
+~~ test edit ~~
